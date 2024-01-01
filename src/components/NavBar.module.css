@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    color:#fff;
+    font-size: 1.4rem;
+
+
+}
+.navbar_menu{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.navbar_menu li{
+    padding: 0px 10px;
+}
+.logo{
+    content: "";
+}
